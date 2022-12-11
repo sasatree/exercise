@@ -1,0 +1,2 @@
+set argv [list test svsim.sv]
+set argc 2

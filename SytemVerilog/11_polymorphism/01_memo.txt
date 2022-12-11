@@ -1,0 +1,2 @@
+set argv [list test polymorphism.sv]
+set argc 2

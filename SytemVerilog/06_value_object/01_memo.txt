@@ -1,0 +1,2 @@
+set argv [list test value_object.sv]
+set argc 2
