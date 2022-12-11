@@ -1,2 +1,0 @@
-set argv [list test top.sv]
-set argc 2

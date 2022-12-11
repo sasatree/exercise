@@ -1,2 +1,0 @@
-set argv [list test p7_test.sv]
-set argc 2

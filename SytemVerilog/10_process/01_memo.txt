@@ -1,2 +1,0 @@
-set argv [list test process.sv]
-set argc 2

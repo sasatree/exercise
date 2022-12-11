@@ -1,2 +1,0 @@
-set argv [list test atapter.sv]
-set argc 2

@@ -1,2 +1,0 @@
-set argv [list test semaphore.sv]
-set argc 2

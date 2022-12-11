@@ -1,2 +1,0 @@
-set argv [list test template_method.sv]
-set argc 2
