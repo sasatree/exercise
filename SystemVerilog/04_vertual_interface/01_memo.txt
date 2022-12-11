@@ -1,0 +1,2 @@
+set argv [list test vertual_interface.sv]
+set argc 2
