@@ -4,8 +4,8 @@ int main(void)
 {
   
 
-  printf("_Bool..%d\n", (int) sizeof(_Bool));
-  printf("char..%d\n" , (int) sizeof(char));
+  printf("_Bool..%d\n", sizeof(_Bool));
+  printf("char..%d\n" , sizeof(char));
 
 
 
